@@ -1,0 +1,8 @@
+{
+  "name": "Echo & Ink: Bibliotherapy for Book Lovers",
+  "description": "Connecting people who love reading with the right books at the right time. Creating pathways to healing, self-discovery, and personal growth through curated literature.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
